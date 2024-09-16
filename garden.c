@@ -11,8 +11,8 @@ int main(){
         printf("enter the letter for the type of seed:\n");       
         printf("enter the number of the seed:\n");
         printf("(space per seed,veggie,seeds)\n");
-            scanf("%.1f %c %d",&a,&b,&c);
-        printf("the %d row's datevinches:%.1f, veggie:%c, seeds:%d\n",n,a,b,c);
+            scanf("%f %c %d",&a,&b,&c);
+        printf("the %d row's datevinches:%f, veggie:%c, seeds:%d\n",n,a,b,c);
         printf("\n");
     }
  return 0;

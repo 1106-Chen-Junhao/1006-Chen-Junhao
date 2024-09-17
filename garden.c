@@ -5,9 +5,9 @@ int main(){
     float a;
     char b;
     int c;
-    printf("Let's plant our garden\n")；
-    printf("enter the space between the seeds:\n");       
-    printf("enter the letter for the type of seed:\n");      
+    printf("Let's plant our garden\n");
+    printf("enter the space between the seeds:\n");    
+    printf("enter the letter for the type of seed:\n");
     printf("enter the number of the seed:\n");
     printf("(space per seed,veggie,seeds)\n");
     scanf("%f %c %d",&a,&b,&c);

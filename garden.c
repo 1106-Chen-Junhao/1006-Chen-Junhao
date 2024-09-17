@@ -12,6 +12,5 @@ int main(){
     printf("(space per seed,veggie,seeds)\n");
     scanf("%f %c %d",&a,&b,&c);
     printf("the row's datevinches:%f, veggie:%c, seeds:%d\n",a,b,c);
-    printf("\n");
  return 0;
 }
